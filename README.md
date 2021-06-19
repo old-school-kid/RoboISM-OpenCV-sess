@@ -1,3 +1,3 @@
 # RoboISM-OpenCV-sess
 
-First RoboISM Session on 19th July by Ayush Tripathi
+First RoboISM Session on 19th June by Ayush Tripathi
