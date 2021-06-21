@@ -7,3 +7,5 @@ The code(s) won't run on google colab. Tu run these you can install Anaconda and
 [Presentation](https://www.canva.com/design/DAEhtQkzbJI/A4g2eGVurkCcjdKrVJowVw/view?utm_content=DAEhtQkzbJI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 [Projects](https://github.com/old-school-kid/OpenCV-projects)
+
+[Youtube Link](https://youtu.be/pW87rePz-8s)
