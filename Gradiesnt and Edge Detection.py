@@ -30,8 +30,8 @@ sobelCombined = cv2.bitwise_or(sobelX, sobelY)
 titles = ['image', 'Laplacian', 'canny', 'sobelX', 'sobelY', 'sobelCombined']
 images = [img, lap, canny, sobelX, sobelY, sobelCombined]
 # looping on it to add all the frames in the same plot using for loop
-for i in range(5):
-    plt.subplot(2, 3, i+1), plt.imshow(images[i], 'gray') # creating subplot
+for i in range(6):
+    plt.subplot(2, 3, i+1), plt.imshow(images[i], titles[i]) # creating subplot
     plt.title(titles[i]) # title 
     plt.xticks([]),plt.yticks([]) # x,y reference none 
 
